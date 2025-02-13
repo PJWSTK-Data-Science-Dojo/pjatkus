@@ -4,6 +4,10 @@ from mediapipe.tasks import python
 from mediapipe.tasks.python import vision
 
 
+# mp_hands = mp.solutions.hands
+# mp_drawing = mp.solutions.drawing_utils
+# hands = mp_hands.Hands(min_detection_confidence=0.5, min_tracking_confidence=0.5)
+
 base_options = python.BaseOptions(model_asset_path='cv/gesture/gesture_recognizer.task')
 options = vision.GestureRecognizerOptions(base_options=base_options)
 recognizer = vision.GestureRecognizer.create_from_options(options)
@@ -17,6 +21,10 @@ while cap.isOpened():
 
     rgb_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
 
+    # result_hands = hands.process(rgb_frame)
+    # if result_hands.multi_hand_landmarks:
+    #     for hand_landmarks in result_hands.multi_hand_landmarks:
+    #         mp_drawing.draw_landmarks(frame, hand_landmarks, mp_hands.HAND_CONNECTIONS)
 
     mp_image = mp.Image(image_format=mp.ImageFormat.SRGB, data=rgb_frame)
     result_gesture = recognizer.recognize(mp_image)
@@ -32,3 +40,4 @@ while cap.isOpened():
 
 cap.release()
 cv2.destroyAllWindows()
+# hands.close()
