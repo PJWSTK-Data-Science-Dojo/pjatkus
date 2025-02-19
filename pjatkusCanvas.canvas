@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"537d7634516745b6","x":-300,"y":-351,"width":1858,"height":911,"type":"group","label":"app loop"},
+		{"id":"e1b63e6f220d2bc9","x":311,"y":-331,"width":559,"height":871,"color":"2","type":"group","label":"DECIDE"},
+		{"id":"92185a89c4a73ab4","type":"text","text":"# ROBOT\n\nnasłuchiwanie / oczekiwanie na interakcję","x":-280,"y":-311,"width":218,"height":171,"color":"5"},
+		{"id":"79ea8bda2420849d","type":"text","text":"# VISION\n\nDetekcja obiektów","x":25,"y":-311,"width":218,"height":145,"color":"5"},
+		{"id":"d9b33428116c0756","type":"text","text":"# DECISION\n\n- ile osób jest w pobliżu?\n- jaki kolor bluzki ma osoba która jest trackowana?\n- która osoba jest najbliżej? itd.","x":331,"y":-311,"width":218,"height":291,"color":"5"},
+		{"id":"a9b89104a8dc7eb4","type":"text","text":"## FEATURE\n\n- odpowiedni wybór reakcji robota na otoczenie","x":331,"y":20,"width":218,"height":203,"color":"4"},
+		{"id":"4f6695330be2669c","x":331,"y":260,"width":218,"height":260,"color":"4","type":"text","text":"## FEATURE QUESTION\n\nCzy pytanie zawiera się w słowniku, albo czy pytanie ma odpowiedź podobną do tej co w słowniku?"},
+		{"id":"c10a6adeb9fb8541","x":600,"y":-311,"width":250,"height":266,"color":"4","type":"text","text":"## DECISION PROMPT\n\nWybór odpowiedniej odpowiedzi bazując na okolicznościach wybranych w decyzji dot. feature"},
+		{"id":"988578732bed2648","type":"text","text":"# LLM\n\nPrzetwórz prompt, wykonaj prompt-to-text i przekaż dalej. Sprawdź, czy jest SFW.","x":1000,"y":-287,"width":218,"height":219,"color":"5"},
+		{"id":"42575c1f83e374ac","type":"text","text":"# VOICE\n\nwykonaj text-to-voice","x":1320,"y":-250,"width":218,"height":145,"color":"5"},
+		{"id":"e38ba557718ffb1a","type":"text","text":"#### VISION START\n-> detekcja osoby w pobliżu\n","x":25,"y":58,"width":218,"height":120,"color":"1"},
+		{"id":"014ebc71f071d888","type":"text","text":"#### VISION BREAK\n-> brak osoby w pobliżu (cases)\n","x":25,"y":203,"width":218,"height":115,"color":"1"},
+		{"id":"09696021e5a842fc","type":"text","text":"# AUDIO\n\nDetekcja dźwięku","x":25,"y":-140,"width":218,"height":145,"color":"5"}
+	],
+	"edges":[
+		{"id":"d93b262e60b97c0e","fromNode":"92185a89c4a73ab4","fromSide":"right","toNode":"79ea8bda2420849d","toSide":"left"},
+		{"id":"5689e314edd218fb","fromNode":"79ea8bda2420849d","fromSide":"right","toNode":"d9b33428116c0756","toSide":"left"},
+		{"id":"9d4f9bd5bcf3ff8e","fromNode":"988578732bed2648","fromSide":"right","toNode":"42575c1f83e374ac","toSide":"left"},
+		{"id":"ea2eaecd3d2a973e","fromNode":"c10a6adeb9fb8541","fromSide":"right","toNode":"988578732bed2648","toSide":"left"},
+		{"id":"e68499d93ab1239a","fromNode":"d9b33428116c0756","fromSide":"bottom","toNode":"a9b89104a8dc7eb4","toSide":"top"},
+		{"id":"2889235445dfe649","fromNode":"a9b89104a8dc7eb4","fromSide":"bottom","toNode":"4f6695330be2669c","toSide":"top"},
+		{"id":"2f869bd1ae1e8887","fromNode":"4f6695330be2669c","fromSide":"top","toNode":"a9b89104a8dc7eb4","toSide":"bottom"},
+		{"id":"49efd86ea33ec26c","fromNode":"a9b89104a8dc7eb4","fromSide":"right","toNode":"c10a6adeb9fb8541","toSide":"bottom"},
+		{"id":"b2ab64d88bc83137","fromNode":"79ea8bda2420849d","fromSide":"bottom","toNode":"e38ba557718ffb1a","toSide":"top"},
+		{"id":"0bebedd5368d7230","fromNode":"e38ba557718ffb1a","fromSide":"bottom","toNode":"014ebc71f071d888","toSide":"top"}
+	]
+}
