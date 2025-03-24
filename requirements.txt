@@ -8,5 +8,3 @@ pyaudio
 speechrecognition
 pyttsx3
 
-# for linux:
-#sudo apt install portaudio19-dev python3-pyaudio
