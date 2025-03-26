@@ -1,0 +1,11 @@
+.obsidian
+.cache
+
+.venv
+venv
+__pycache__
+*.pyc
+*.pyo
+
+.env
+data/

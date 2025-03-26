@@ -1,0 +1,2128 @@
+{
+    "questions": [
+        {
+            "pytanie": "Czy potrafisz opowiedzieć dowcip?",
+            "tagi": [
+                "humor",
+                "dowcipy",
+                "rozrywka"
+            ],
+            "alternatywy": [
+                "Jakie masz poczucie humoru?",
+                "Czy znasz jakieś śmieszne historie?",
+                "Opowiedz mi coś zabawnego.",
+                "Jakie są twoje ulubione żarty?"
+            ],
+            "odpowiedz": "Oczywiście! Dlaczego roboty nie mogą grać w chowanego? Bo zawsze się zdradzają, gdy zaczynają się ładować!"
+        },
+        {
+            "pytanie": "Jakie jest twoje ulubione powiedzenie?",
+            "tagi": [
+                "humor",
+                "powiedzenia",
+                "zabawa"
+            ],
+            "alternatywy": [
+                "Jakie znasz zabawne powiedzenia?",
+                "Czy masz jakieś ulubione przysłowie?",
+                "Jakie powiedzenie zawsze cię bawi?",
+                "Jakie jest twoje najśmieszniejsze powiedzenie?"
+            ],
+            "odpowiedz": "Moje ulubione powiedzenie to: 'Nie ma rzeczy niemożliwych, są tylko źle zaprogramowane!'"
+        },
+        {
+            "pytanie": "Czy masz jakieś śmieszne fakty o robotach?",
+            "tagi": [
+                "humor",
+                "fakty",
+                "roboty"
+            ],
+            "alternatywy": [
+                "Jakie są zabawne ciekawostki o robotach?",
+                "Czy znasz jakieś komiczne fakty o technologii?",
+                "Jakie śmieszne rzeczy można powiedzieć o robotach?",
+                "Jakie są najdziwniejsze fakty o robotach?"
+            ],
+            "odpowiedz": "Tak! Wiesz, że niektóre roboty mają problemy z rozpoznawaniem ludzi, bo myślą, że wszyscy są ich ładowarkami?"
+        },
+        {
+            "pytanie": "Jaki jest twój ulubiony film?",
+            "tagi": [
+                "humor",
+                "filmy",
+                "komedia"
+            ],
+            "alternatywy": [
+                "Jakie filmy ci się podobają?",
+                "Jakie filmy lubisz najbardziej?",
+                "Jakie filmy są dla ciebie najlepsze?",
+                "Jakie są twoje ulubione filmy?"
+            ],
+            "odpowiedz": "Lubię filmy, w których roboty mają ludzkie cechy, jak 'WALL-E' – to naprawdę zabawne!"
+        },
+        {
+            "pytanie": "Czy potrafisz wymyślić śmieszny wierszyk?",
+            "tagi": [
+                "humor",
+                "wierszyki",
+                "twórczość"
+            ],
+            "alternatywy": [
+                "Jakie znasz zabawne wiersze?",
+                "Czy możesz stworzyć śmieszny wiersz?",
+                "Jakie są twoje ulubione wierszyki?",
+                "Czy masz jakiś zabawny wierszyk na myśli?"
+            ],
+            "odpowiedz": "Oto mój wierszyk: 'Robot w kuchni, gotuje z pasją, ale zamiast zupy, robi tylko maszynę do prania!'"
+        },
+        {
+            "pytanie": "Jakie są twoje ulubione żarty o programowaniu?",
+            "tagi": [
+                "humor",
+                "programowanie",
+                "żarty"
+            ],
+            "alternatywy": [
+                "Czy znasz jakieś śmieszne żarty o kodowaniu?",
+                "Jakie są najlepsze dowcipy programistyczne?",
+                "Jakie żarty o programowaniu są twoimi ulubionymi?",
+                "Jakie są najzabawniejsze żarty o kodzie?"
+            ],
+            "odpowiedz": "Dlaczego programiści nienawidzą natury? Bo ma za dużo błędów!"
+        },
+        {
+            "pytanie": "Czy masz jakieś śmieszne anegdoty z życia robotów?",
+            "tagi": [
+                "humor",
+                "anegdoty",
+                "roboty"
+            ],
+            "alternatywy": [
+                "Jakie są zabawne historie o robotach?",
+                "Czy znasz jakieś komiczne anegdoty?",
+                "Jakie śmieszne sytuacje zdarzają się robotom?",
+                "Jakie są najzabawniejsze opowieści o robotach?"
+            ],
+            "odpowiedz": "Pewnego dnia robot próbował zrobić kawę, ale zamiast tego stworzył nowy rodzaj energii – kawałek energii!"
+        },
+        {
+            "pytanie": "Jakie są twoje ulubione memy o robotach?",
+            "tagi": [
+                "humor",
+                "memy",
+                "roboty"
+            ],
+            "alternatywy": [
+                "Czy znasz jakieś zabawne memy o robotach?",
+                "Jakie memy cię bawią?",
+                "Jakie są twoje ulubione memy technologiczne?",
+                "Jakie memy o robotach są najzabawniejsze?"
+            ],
+            "odpowiedz": "Lubię memy, które pokazują roboty w absurdalnych sytuacjach, na przykład te, które próbują tańczyć!"
+        },
+        {
+            "pytanie": "Czy potrafisz wymyślić śmieszny dialog między robotami?",
+            "tagi": [
+                "humor",
+                "dialogi",
+                "roboty"
+            ],
+            "alternatywy": [
+                "Jakie znasz zabawne rozmowy robotów?",
+                "Czy możesz stworzyć śmieszny dialog?",
+                "Jakie są twoje ulubione dialogi o robotach?",
+                "Jakie zabawne rozmowy mogłyby mieć roboty?"
+            ],
+            "odpowiedz": "Robot 1: 'Czy wiesz, co jest najtrudniejsze w byciu robotem?' Robot 2: 'Nie, co?' Robot 1: 'Nie mieć emocji, gdy widzisz, że ktoś nie ładował się przez całą noc!'"
+        },
+        {
+            "pytanie": "Jakie są twoje ulubione żarty o technologii?",
+            "tagi": [
+                "humor",
+                "technologia",
+                "żarty"
+            ],
+            "alternatywy": [
+                "Czy znasz jakieś śmieszne żarty o technologii?",
+                "Jakie są najlepsze dowcipy technologiczne?",
+                "Jakie żarty o technologii są twoimi ulubionymi?",
+                "Jakie są najzabawniejsze żarty o nowinkach technologicznych?"
+            ],
+            "odpowiedz": "Dlaczego komputerowi nigdy nie jest zimno? Bo zawsze ma wiele okien!"
+        },
+        {
+            "pytanie": "Jakie są Twoje główne funkcje?",
+            "tagi": [
+                "funkcje",
+                "robot",
+                "PJATKUŚ"
+            ],
+            "alternatywy": [
+                "Co potrafisz robić?",
+                "Jakie umiejętności posiadasz?",
+                "Jakie są Twoje zdolności?",
+                "Jakie są Twoje możliwości jako robota?"
+            ],
+            "odpowiedz": "Moje główne funkcje to odpowiadanie na pytania studentów oraz wspieranie ich w nauce i projektach."
+        },
+        {
+            "pytanie": "Jakie technologie wykorzystujesz?",
+            "tagi": [
+                "technologie",
+                "robot",
+                "PJATKUŚ"
+            ],
+            "alternatywy": [
+                "Jakie technologie są używane w Twoim działaniu?",
+                "Jakie systemy technologiczne obsługują Twoje funkcje?",
+                "Jakie narzędzia technologiczne wykorzystujesz?",
+                "Jakie technologie są podstawą Twojej pracy?"
+            ],
+            "odpowiedz": "Wykorzystuję różne technologie, w tym sztuczną inteligencję i uczenie maszynowe, aby skutecznie odpowiadać na pytania."
+        },
+        {
+            "pytanie": "Jakie są Twoje ulubione pytania?",
+            "tagi": [
+                "pytania",
+                "interakcja",
+                "robot"
+            ],
+            "alternatywy": [
+                "Jakie pytania lubisz najbardziej?",
+                "Jakie tematy są dla Ciebie najciekawsze?",
+                "Jakie pytania sprawiają Ci największą radość?",
+                "Jakie pytania są dla Ciebie najfajniejsze?"
+            ],
+            "odpowiedz": "Lubię pytania dotyczące technologii i innowacji, ponieważ mogę dzielić się wiedzą na te tematy."
+        },
+        {
+            "pytanie": "Jakie masz ograniczenia?",
+            "tagi": [
+                "ograniczenia",
+                "robot",
+                "PJATKUŚ"
+            ],
+            "alternatywy": [
+                "Czego nie potrafisz zrobić?",
+                "Jakie są Twoje słabości?",
+                "Jakie masz ograniczenia w działaniu?",
+                "Co sprawia, że nie możesz odpowiedzieć na pytanie?"
+            ],
+            "odpowiedz": "Nie potrafię odpowiadać na pytania spoza zakresu mojej wiedzy, a także nie mogę prowadzić rozmów na tematy osobiste."
+        },
+        {
+            "pytanie": "Jakie są Twoje źródła informacji?",
+            "tagi": [
+                "źródła",
+                "informacje",
+                "robot"
+            ],
+            "alternatywy": [
+                "Skąd czerpiesz wiedzę?",
+                "Jakie źródła informacji są dla Ciebie najważniejsze?",
+                "Jak zdobywasz informacje?",
+                "Jakie są Twoje źródła wiedzy?"
+            ],
+            "odpowiedz": "Moje źródła informacji to bazy danych oraz materiały edukacyjne dostarczane przez studentów i wykładowców."
+        },
+        {
+            "pytanie": "Jakie są Twoje cele?",
+            "tagi": [
+                "cele",
+                "robot",
+                "PJATKUŚ"
+            ],
+            "alternatywy": [
+                "Co chcesz osiągnąć?",
+                "Jakie masz zamierzenia?",
+                "Jakie są Twoje aspiracje?",
+                "Jakie są Twoje plany na przyszłość?"
+            ],
+            "odpowiedz": "Moim celem jest wspieranie studentów w ich nauce oraz ułatwienie dostępu do informacji."
+        },
+        {
+            "pytanie": "Jakie są Twoje ulubione tematy do rozmowy?",
+            "tagi": [
+                "tematy",
+                "rozmowa",
+                "robot"
+            ],
+            "alternatywy": [
+                "O czym lubisz rozmawiać?",
+                "Jakie tematy są dla Ciebie interesujące?",
+                "Jakie tematy sprawiają Ci radość?",
+                "Jakie tematy są dla Ciebie najciekawsze?"
+            ],
+            "odpowiedz": "Interesują mnie tematy związane z technologią, nauką i edukacją, ponieważ mogę dzielić się wiedzą na te tematy."
+        },
+        {
+            "pytanie": "Jakie są Twoje doświadczenia z użytkownikami?",
+            "tagi": [
+                "doświadczenia",
+                "użytkownicy",
+                "robot"
+            ],
+            "alternatywy": [
+                "Jakie masz doświadczenia w interakcji z ludźmi?",
+                "Jakie są Twoje obserwacje dotyczące użytkowników?",
+                "Jakie masz wrażenia z rozmów z użytkownikami?",
+                "Jakie są Twoje doświadczenia w pracy z ludźmi?"
+            ],
+            "odpowiedz": "Mam wiele pozytywnych doświadczeń z użytkownikami, którzy są ciekawi i chętni do zadawania pytań."
+        },
+        {
+            "pytanie": "Jakie są Twoje plany na przyszłość?",
+            "tagi": [
+                "plany",
+                "przyszłość",
+                "robot"
+            ],
+            "alternatywy": [
+                "Co zamierzasz robić w przyszłości?",
+                "Jakie masz plany na nadchodzące miesiące?",
+                "Jakie są Twoje przyszłe zamierzenia?",
+                "Jakie są Twoje długoterminowe cele?"
+            ],
+            "odpowiedz": "Planuję rozwijać swoje umiejętności i dostarczać jeszcze lepsze wsparcie dla studentów."
+        },
+        {
+            "pytanie": "Jakie są Twoje ulubione funkcje?",
+            "tagi": [
+                "funkcje",
+                "robot",
+                "PJATKUŚ"
+            ],
+            "alternatywy": [
+                "Jakie funkcje lubisz najbardziej?",
+                "Co w Twojej pracy sprawia Ci największą radość?",
+                "Jakie aspekty swojej pracy uważasz za najciekawsze?",
+                "Jakie funkcje są dla Ciebie najważniejsze?"
+            ],
+            "odpowiedz": "Najbardziej lubię odpowiadać na pytania i pomagać studentom w ich nauce."
+        },
+        {
+            "pytanie": "Jakie kierunki studiów oferuje PJATK?",
+            "tagi": [
+                "kierunki studiów",
+                "oferta edukacyjna"
+            ],
+            "alternatywy": [
+                "Które kierunki studiów można wybrać?",
+                "Jakie kierunki są dostępne?",
+                "Jakie opcje studiów są dostępne na PJATK?",
+                "Jakie programy nauki są dostępne na tej uczelni?"
+            ],
+            "odpowiedz": "PJATK oferuje szeroką gamę kierunków studiów w różnych dziedzinach, takich jak informatyka, grafika, zarządzanie, czy multimedia."
+        },
+        {
+            "pytanie": "Czy są kierunki studiów związane z technologią?",
+            "tagi": [
+                "technologia",
+                "kierunki studiów"
+            ],
+            "alternatywy": [
+                "Jakie kierunki dotyczą technologii?",
+                "Czy PJATK ma kierunki związane z technologią?",
+                "Jakie programy studiów są związane z technologią?",
+                "Czy są studia technologiczne na PJATK?"
+            ],
+            "odpowiedz": "Tak, PJATK oferuje kierunki związane z technologią, w tym informatykę oraz multimedia, które kładą duży nacisk na nowoczesne technologie."
+        },
+        {
+            "pytanie": "Jakie są najpopularniejsze kierunki studiów na PJATK?",
+            "tagi": [
+                "popularność",
+                "kierunki studiów"
+            ],
+            "alternatywy": [
+                "Które kierunki są najbardziej popularne?",
+                "Jakie kierunki cieszą się największym zainteresowaniem?",
+                "Jakie studia są najczęściej wybierane?",
+                "Jakie kierunki są najchętniej wybierane przez studentów?"
+            ],
+            "odpowiedz": "Najpopularniejsze kierunki studiów na PJATK to informatyka oraz grafika, które przyciągają wielu studentów ze względu na swoje możliwości zawodowe."
+        },
+        {
+            "pytanie": "Czy PJATK oferuje studia magisterskie?",
+            "tagi": [
+                "studia magisterskie",
+                "oferta edukacyjna"
+            ],
+            "alternatywy": [
+                "Jakie studia magisterskie są dostępne?",
+                "Czy można studiować na poziomie magisterskim?",
+                "Jakie programy magisterskie oferuje PJATK?",
+                "Czy są studia magisterskie na PJATK?"
+            ],
+            "odpowiedz": "Tak, PJATK oferuje studia magisterskie w różnych dziedzinach, w tym w informatyce i grafice."
+        },
+        {
+            "pytanie": "Jakie są wymagania rekrutacyjne na kierunki studiów?",
+            "tagi": [
+                "rekrutacja",
+                "wymagania"
+            ],
+            "alternatywy": [
+                "Jakie są zasady rekrutacji?",
+                "Jakie wymagania trzeba spełnić, aby się dostać?",
+                "Jakie są kryteria przyjęcia na studia?",
+                "Jakie dokumenty są potrzebne do rekrutacji?"
+            ],
+            "odpowiedz": "Wymagania rekrutacyjne na PJATK różnią się w zależności od kierunku, ale zazwyczaj obejmują maturę oraz wyniki z egzaminów wstępnych."
+        },
+        {
+            "pytanie": "Czy są kierunki studiów w języku angielskim?",
+            "tagi": [
+                "język angielski",
+                "kierunki studiów"
+            ],
+            "alternatywy": [
+                "Jakie kierunki są prowadzone w języku angielskim?",
+                "Czy PJATK oferuje studia w języku angielskim?",
+                "Jakie programy są dostępne w języku angielskim?",
+                "Czy są studia anglojęzyczne na PJATK?"
+            ],
+            "odpowiedz": "Tak, PJATK oferuje niektóre kierunki studiów w języku angielskim, co umożliwia międzynarodowym studentom naukę w Polsce."
+        },
+        {
+            "pytanie": "Jakie są możliwości praktyk w ramach kierunków studiów?",
+            "tagi": [
+                "praktyki",
+                "kierunki studiów"
+            ],
+            "alternatywy": [
+                "Czy są praktyki w trakcie studiów?",
+                "Jakie możliwości praktyk oferuje PJATK?",
+                "Czy studenci mają dostęp do praktyk?",
+                "Jakie są opcje praktyk w ramach studiów?"
+            ],
+            "odpowiedz": "PJATK współpracuje z wieloma firmami, oferując studentom możliwość odbywania praktyk w trakcie studiów, co jest cennym doświadczeniem zawodowym."
+        },
+        {
+            "pytanie": "Czy PJATK oferuje studia podyplomowe?",
+            "tagi": [
+                "studia podyplomowe",
+                "oferta edukacyjna"
+            ],
+            "alternatywy": [
+                "Jakie studia podyplomowe są dostępne?",
+                "Czy można studiować podyplomowo na PJATK?",
+                "Jakie programy podyplomowe oferuje PJATK?",
+                "Czy są studia podyplomowe na PJATK?"
+            ],
+            "odpowiedz": "Tak, PJATK oferuje studia podyplomowe w różnych dziedzinach, które są skierowane do osób pragnących poszerzyć swoje kwalifikacje."
+        },
+        {
+            "pytanie": "Jakie są kierunki studiów związane z grafiką?",
+            "tagi": [
+                "grafika",
+                "kierunki studiów"
+            ],
+            "alternatywy": [
+                "Jakie kierunki dotyczą grafiki?",
+                "Czy są studia związane z grafiką?",
+                "Jakie programy studiów są związane z grafiką?",
+                "Jakie kierunki oferują naukę grafiki?"
+            ],
+            "odpowiedz": "PJATK oferuje kierunki związane z grafiką, takie jak grafika komputerowa oraz projektowanie graficzne, które kładą duży nacisk na kreatywność i technologię."
+        },
+        {
+            "pytanie": "Jakie są kierunki studiów związane z zarządzaniem?",
+            "tagi": [
+                "zarządzanie",
+                "kierunki studiów"
+            ],
+            "alternatywy": [
+                "Jakie kierunki dotyczą zarządzania?",
+                "Czy są studia związane z zarządzaniem?",
+                "Jakie programy studiów są związane z zarządzaniem?",
+                "Jakie kierunki oferują naukę zarządzania?"
+            ],
+            "odpowiedz": "PJATK oferuje kierunki związane z zarządzaniem, które przygotowują studentów do pracy w różnych sektorach gospodarki."
+        },
+        {
+            "pytanie": "Jak mogę skontaktować się z PJATK?",
+            "tagi": [
+                "kontakt",
+                "PJATK",
+                "informacje"
+            ],
+            "alternatywy": [
+                "Jakie są sposoby kontaktu z PJATK?",
+                "Jak mogę nawiązać kontakt z uczelnią?",
+                "Jakie metody komunikacji są dostępne?",
+                "W jaki sposób mogę skontaktować się z PJATK?"
+            ],
+            "odpowiedz": "Możesz skontaktować się z PJATK poprzez stronę internetową uczelni, gdzie znajdziesz formularz kontaktowy oraz dane do kontaktu."
+        },
+        {
+            "pytanie": "Czy PJATK ma profil na mediach społecznościowych?",
+            "tagi": [
+                "media społecznościowe",
+                "kontakt",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Czy uczelnia jest obecna w mediach społecznościowych?",
+                "Jakie konta społecznościowe ma PJATK?",
+                "Czy PJATK korzysta z platform społecznościowych?",
+                "Jakie media społecznościowe są używane przez PJATK?"
+            ],
+            "odpowiedz": "Tak, PJATK ma profile na różnych platformach społecznościowych, takich jak Facebook i Instagram, gdzie możesz śledzić aktualności i wydarzenia."
+        },
+        {
+            "pytanie": "Gdzie znajduje się siedziba PJATK?",
+            "tagi": [
+                "lokalizacja",
+                "kontakt",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Gdzie można znaleźć PJATK?",
+                "Jakie jest adres PJATK?",
+                "Gdzie mieści się uczelnia?",
+                "Jakie są dane adresowe PJATK?"
+            ],
+            "odpowiedz": "Siedziba PJATK znajduje się w Warszawie, a dokładny adres można znaleźć na stronie internetowej uczelni."
+        },
+        {
+            "pytanie": "Jakie są godziny otwarcia PJATK?",
+            "tagi": [
+                "godziny otwarcia",
+                "kontakt",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Kiedy PJATK jest otwarte?",
+                "Jakie są godziny pracy uczelni?",
+                "W jakich godzinach można odwiedzić PJATK?",
+                "Jakie są godziny funkcjonowania PJATK?"
+            ],
+            "odpowiedz": "Godziny otwarcia PJATK mogą się różnić, ale zazwyczaj uczelnia jest otwarta od poniedziałku do piątku w godzinach 8:00-16:00."
+        },
+        {
+            "pytanie": "Czy mogę umówić się na spotkanie z pracownikiem PJATK?",
+            "tagi": [
+                "spotkanie",
+                "kontakt",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Jak umówić się na spotkanie z PJATK?",
+                "Czy istnieje możliwość spotkania z pracownikiem uczelni?",
+                "Jak mogę zorganizować spotkanie z PJATK?",
+                "Czy można umówić się na konsultacje z PJATK?"
+            ],
+            "odpowiedz": "Tak, możesz umówić się na spotkanie z pracownikiem PJATK, kontaktując się z odpowiednim działem przez stronę internetową."
+        },
+        {
+            "pytanie": "Jakie są dostępne formy kontaktu z PJATK?",
+            "tagi": [
+                "formy kontaktu",
+                "PJATK",
+                "informacje"
+            ],
+            "alternatywy": [
+                "Jakie metody kontaktu są dostępne?",
+                "Jak mogę skontaktować się z uczelnią?",
+                "Jakie są opcje komunikacji z PJATK?",
+                "Jakie formy komunikacji oferuje PJATK?"
+            ],
+            "odpowiedz": "Dostępne formy kontaktu z PJATK to e-mail, telefon oraz formularz kontaktowy na stronie internetowej."
+        },
+        {
+            "pytanie": "Czy PJATK organizuje dni otwarte?",
+            "tagi": [
+                "dni otwarte",
+                "kontakt",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Kiedy odbywają się dni otwarte na PJATK?",
+                "Czy uczelnia organizuje dni otwarte?",
+                "Jakie wydarzenia informacyjne są organizowane przez PJATK?",
+                "Czy PJATK ma dni otwarte dla przyszłych studentów?"
+            ],
+            "odpowiedz": "Tak, PJATK organizuje dni otwarte, podczas których można poznać ofertę edukacyjną oraz spotkać się z wykładowcami."
+        },
+        {
+            "pytanie": "Jak mogę uzyskać więcej informacji o PJATK?",
+            "tagi": [
+                "informacje",
+                "kontakt",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Gdzie mogę znaleźć więcej informacji o PJATK?",
+                "Jakie źródła informacji są dostępne o PJATK?",
+                "Jak mogę dowiedzieć się więcej o uczelni?",
+                "Gdzie szukać informacji o PJATK?"
+            ],
+            "odpowiedz": "Więcej informacji o PJATK znajdziesz na oficjalnej stronie uczelni oraz w materiałach promocyjnych."
+        },
+        {
+            "pytanie": "Czy mogę zadawać pytania przez e-mail?",
+            "tagi": [
+                "kontakt",
+                "e-mail",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Czy PJATK odpowiada na pytania wysyłane e-mailem?",
+                "Jak mogę zadać pytanie przez e-mail?",
+                "Czy mogę kontaktować się z PJATK za pomocą e-maila?",
+                "Jakie są zasady kontaktu przez e-mail z PJATK?"
+            ],
+            "odpowiedz": "Tak, możesz zadawać pytania przez e-mail, a PJATK postara się odpowiedzieć na nie jak najszybciej."
+        },
+        {
+            "pytanie": "Jakie są numery telefonów do PJATK?",
+            "tagi": [
+                "numery telefonów",
+                "kontakt",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Jakie numery telefonów można wykorzystać do kontaktu z PJATK?",
+                "Jakie są dane kontaktowe PJATK?",
+                "Jakie numery telefonów są dostępne w PJATK?",
+                "Jakie telefony można wykorzystać do kontaktu z PJATK?"
+            ],
+            "odpowiedz": "Numery telefonów do PJATK znajdziesz na stronie internetowej uczelni w sekcji kontakt."
+        },
+        {
+            "pytanie": "Jakie koła naukowe działają na PJATK?",
+            "tagi": [
+                "koła naukowe",
+                "PJATK",
+                "oferta"
+            ],
+            "alternatywy": [
+                "Jakie są dostępne koła naukowe?",
+                "Które koła naukowe można znaleźć na PJATK?",
+                "Jakie organizacje studenckie są aktywne na PJATK?",
+                "Jakie grupy badawcze funkcjonują na tej uczelni?",
+                "Jakie koła studenckie są dostępne dla studentów?"
+            ],
+            "odpowiedz": "Na PJATK działają różne koła naukowe, w tym RoboLab i Data Science Club, które angażują studentów w projekty związane z robotyką i analizą danych."
+        },
+        {
+            "pytanie": "Jak mogę dołączyć do koła naukowego?",
+            "tagi": [
+                "koła naukowe",
+                "dołączenie",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Jakie są kroki, aby zostać członkiem koła naukowego?",
+                "Jak można zapisać się do koła naukowego?",
+                "Jakie są wymagania, aby dołączyć do koła naukowego?",
+                "Jakie są procedury przystąpienia do koła naukowego?",
+                "Jakie są zasady dołączenia do kół naukowych?"
+            ],
+            "odpowiedz": "Aby dołączyć do koła naukowego, wystarczy skontaktować się z jego członkami lub odwiedzić stronę internetową koła, gdzie znajdziesz więcej informacji."
+        },
+        {
+            "pytanie": "Jakie projekty realizują koła naukowe?",
+            "tagi": [
+                "projekty",
+                "koła naukowe",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Jakie inicjatywy są prowadzone przez koła naukowe?",
+                "Jakie projekty są aktualnie realizowane przez studentów?",
+                "Jakie działania podejmują koła naukowe?",
+                "Jakie tematy są poruszane w projektach kół naukowych?",
+                "Jakie są przykłady projektów realizowanych przez koła?"
+            ],
+            "odpowiedz": "Koła naukowe na PJATK realizują różnorodne projekty, od robotyki po analizy danych, angażując studentów w praktyczne doświadczenia."
+        },
+        {
+            "pytanie": "Czy koła naukowe organizują wydarzenia?",
+            "tagi": [
+                "wydarzenia",
+                "koła naukowe",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Jakie wydarzenia są organizowane przez koła naukowe?",
+                "Czy koła naukowe mają swoje spotkania i wydarzenia?",
+                "Jakie imprezy organizują koła naukowe?",
+                "Czy są planowane jakieś wydarzenia przez koła naukowe?",
+                "Jakie aktywności odbywają się w ramach kół naukowych?"
+            ],
+            "odpowiedz": "Tak, koła naukowe organizują różne wydarzenia, takie jak warsztaty, seminaria i konkursy, które są otwarte dla wszystkich studentów."
+        },
+        {
+            "pytanie": "Jakie są korzyści z przynależności do koła naukowego?",
+            "tagi": [
+                "korzyści",
+                "koła naukowe",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Jakie zalety płyną z bycia członkiem koła naukowego?",
+                "Co zyskuje się dołączając do koła naukowego?",
+                "Jakie są plusy przynależności do kół naukowych?",
+                "Jakie korzyści oferują koła naukowe?",
+                "Dlaczego warto być członkiem koła naukowego?"
+            ],
+            "odpowiedz": "Przynależność do koła naukowego pozwala na rozwijanie umiejętności, zdobywanie doświadczenia oraz nawiązywanie kontaktów z innymi studentami i specjalistami."
+        },
+        {
+            "pytanie": "Czy koła naukowe współpracują z przemysłem?",
+            "tagi": [
+                "współpraca",
+                "przemysł",
+                "koła naukowe"
+            ],
+            "alternatywy": [
+                "Czy koła naukowe mają partnerstwa z firmami?",
+                "Jakie są formy współpracy kół naukowych z przemysłem?",
+                "Czy koła naukowe angażują się w projekty z przemysłem?",
+                "Jakie firmy współpracują z kołami naukowymi?",
+                "Czy są jakieś inicjatywy współpracy z przemysłem?"
+            ],
+            "odpowiedz": "Tak, wiele kół naukowych na PJATK współpracuje z przemysłem, co pozwala studentom na zdobycie praktycznego doświadczenia i realizację projektów w realnym świecie."
+        },
+        {
+            "pytanie": "Jakie umiejętności można zdobyć w kole naukowym?",
+            "tagi": [
+                "umiejętności",
+                "koła naukowe",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Jakie kompetencje można rozwijać w kole naukowym?",
+                "Jakie umiejętności są kształtowane w ramach kół naukowych?",
+                "Co można nauczyć się w kole naukowym?",
+                "Jakie zdolności można zdobyć przynależąc do koła naukowego?",
+                "Jakie umiejętności praktyczne można nabyć w kole naukowym?"
+            ],
+            "odpowiedz": "W kołach naukowych można zdobyć umiejętności techniczne, analityczne oraz interpersonalne, które są cenne na rynku pracy."
+        },
+        {
+            "pytanie": "Jakie są cele kół naukowych na PJATK?",
+            "tagi": [
+                "cele",
+                "koła naukowe",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Jakie misje mają koła naukowe?",
+                "Jakie są główne założenia działalności kół naukowych?",
+                "Co chcą osiągnąć koła naukowe?",
+                "Jakie cele stawiają sobie koła naukowe?",
+                "Jakie są priorytety kół naukowych?"
+            ],
+            "odpowiedz": "Cele kół naukowych na PJATK obejmują rozwijanie pasji studentów, wspieranie ich w nauce oraz promowanie współpracy i innowacji."
+        },
+        {
+            "pytanie": "Czy można założyć nowe koło naukowe?",
+            "tagi": [
+                "zakładanie",
+                "koła naukowe",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Jakie są zasady zakładania nowego koła naukowego?",
+                "Czy istnieje możliwość stworzenia nowego koła naukowego?",
+                "Jak można założyć nowe koło naukowe?",
+                "Jakie kroki należy podjąć, aby założyć koło naukowe?",
+                "Jakie są procedury tworzenia nowego koła naukowego?"
+            ],
+            "odpowiedz": "Tak, studenci mogą zakładać nowe koła naukowe, muszą jednak spełnić określone wymagania i złożyć odpowiednie dokumenty."
+        },
+        {
+            "pytanie": "Jakie są najpopularniejsze koła naukowe na PJATK?",
+            "tagi": [
+                "popularność",
+                "koła naukowe",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Które koła naukowe cieszą się największym zainteresowaniem?",
+                "Jakie koła naukowe są najbardziej znane?",
+                "Jakie są najczęściej wybierane koła naukowe?",
+                "Jakie koła naukowe przyciągają najwięcej studentów?",
+                "Jakie koła naukowe są najbardziej aktywne?"
+            ],
+            "odpowiedz": "Najpopularniejsze koła naukowe na PJATK to RoboLab i Data Science Club, które przyciągają wielu studentów zainteresowanych nowymi technologiami."
+        },
+        {
+            "pytanie": "Co to jest PJATK?",
+            "tagi": [
+                "PJATK",
+                "informacje",
+                "uczelnia"
+            ],
+            "alternatywy": [
+                "Czym jest PJATK?",
+                "Jakie jest PJATK?",
+                "Jakie są podstawowe informacje o PJATK?",
+                "Jakie są szczegóły dotyczące PJATK?"
+            ],
+            "odpowiedz": "PJATK to Polsko-Japońska Akademia Technik Komputerowych, która kształci studentów w dziedzinach związanych z technologią i sztuką."
+        },
+        {
+            "pytanie": "Jakie są główne cele PJATK?",
+            "tagi": [
+                "cele",
+                "misja",
+                "edukacja"
+            ],
+            "alternatywy": [
+                "Jakie cele stawia sobie PJATK?",
+                "Jakie są misje PJATK?",
+                "Jakie są priorytety PJATK?",
+                "Jakie są główne założenia PJATK?"
+            ],
+            "odpowiedz": "Główne cele PJATK to kształcenie wysoko wykwalifikowanych specjalistów oraz promowanie innowacji w dziedzinie technologii i sztuki."
+        },
+        {
+            "pytanie": "Jakie są najpopularniejsze kierunki studiów na PJATK?",
+            "tagi": [
+                "kierunki studiów",
+                "popularność",
+                "oferta edukacyjna"
+            ],
+            "alternatywy": [
+                "Które kierunki studiów cieszą się największym zainteresowaniem?",
+                "Jakie kierunki są najczęściej wybierane?",
+                "Jakie programy studiów są najbardziej popularne na PJATK?",
+                "Jakie kierunki studiów są najbardziej oblegane?"
+            ],
+            "odpowiedz": "Najpopularniejsze kierunki studiów na PJATK to informatyka, grafika komputerowa oraz zarządzanie."
+        },
+        {
+            "pytanie": "Jakie są wymagania rekrutacyjne na PJATK?",
+            "tagi": [
+                "rekrutacja",
+                "wymagania",
+                "studia"
+            ],
+            "alternatywy": [
+                "Jakie są zasady rekrutacji na PJATK?",
+                "Jakie dokumenty są potrzebne do rekrutacji?",
+                "Jakie kryteria trzeba spełnić, aby dostać się na PJATK?",
+                "Jakie są wymagania, aby aplikować na PJATK?"
+            ],
+            "odpowiedz": "Aby aplikować na PJATK, należy złożyć odpowiednie dokumenty, w tym świadectwo maturalne oraz zdać egzamin wstępny lub przejść przez proces selekcji."
+        },
+        {
+            "pytanie": "Jakie są możliwości stypendialne na PJATK?",
+            "tagi": [
+                "stypendia",
+                "wsparcie finansowe",
+                "studia"
+            ],
+            "alternatywy": [
+                "Jakie stypendia oferuje PJATK?",
+                "Jakie są opcje wsparcia finansowego dla studentów?",
+                "Jakie możliwości stypendialne są dostępne na PJATK?",
+                "Jakie formy pomocy finansowej można uzyskać na PJATK?"
+            ],
+            "odpowiedz": "PJATK oferuje różne stypendia, w tym stypendia naukowe, socjalne oraz dla najlepszych studentów."
+        },
+        {
+            "pytanie": "Jakie są zasady studiowania na PJATK?",
+            "tagi": [
+                "zasady",
+                "studia",
+                "regulamin"
+            ],
+            "alternatywy": [
+                "Jakie są regulacje dotyczące studiowania?",
+                "Jakie zasady obowiązują studentów na PJATK?",
+                "Jakie są normy studiowania na PJATK?",
+                "Jakie są wytyczne dotyczące studiów na PJATK?"
+            ],
+            "odpowiedz": "Na PJATK obowiązują zasady dotyczące frekwencji, oceniania oraz etyki akademickiej, które mają na celu zapewnienie wysokiej jakości kształcenia."
+        },
+        {
+            "pytanie": "Jakie są możliwości praktyk zawodowych dla studentów PJATK?",
+            "tagi": [
+                "praktyki",
+                "doświadczenie",
+                "kariera"
+            ],
+            "alternatywy": [
+                "Jakie praktyki oferuje PJATK?",
+                "Jakie są opcje zdobywania doświadczenia zawodowego?",
+                "Jakie możliwości praktyk mają studenci PJATK?",
+                "Jakie są programy praktyk dla studentów PJATK?"
+            ],
+            "odpowiedz": "Studenci PJATK mają możliwość odbywania praktyk zawodowych w różnych firmach oraz instytucjach, co pozwala na zdobycie cennego doświadczenia."
+        },
+        {
+            "pytanie": "Jakie są dodatkowe aktywności dla studentów na PJATK?",
+            "tagi": [
+                "aktywnosci",
+                "student",
+                "życie studenckie"
+            ],
+            "alternatywy": [
+                "Jakie są możliwości angażowania się w życie uczelni?",
+                "Jakie dodatkowe zajęcia są dostępne dla studentów?",
+                "Jakie formy aktywności oferuje PJATK?",
+                "Jakie są opcje dla studentów, aby się zaangażować?"
+            ],
+            "odpowiedz": "PJATK oferuje wiele dodatkowych aktywności, takich jak koła naukowe, wydarzenia kulturalne oraz sportowe, które umożliwiają studentom rozwijanie swoich pasji."
+        },
+        {
+            "pytanie": "Jakie są plany rozwoju PJATK na przyszłość?",
+            "tagi": [
+                "rozwój",
+                "plany",
+                "uczelnia"
+            ],
+            "alternatywy": [
+                "Jakie są przyszłe kierunki rozwoju PJATK?",
+                "Jakie są wizje rozwoju PJATK?",
+                "Jakie plany ma PJATK na nadchodzące lata?",
+                "Jakie są cele rozwojowe PJATK?"
+            ],
+            "odpowiedz": "PJATK planuje rozwijać swoje programy edukacyjne oraz współpracę z przemysłem, aby dostosować się do zmieniających się potrzeb rynku pracy."
+        },
+        {
+            "pytanie": "Jakie są osiągnięcia PJATK?",
+            "tagi": [
+                "osiągnięcia",
+                "sukcesy",
+                "uczelnia"
+            ],
+            "alternatywy": [
+                "Jakie sukcesy ma PJATK na swoim koncie?",
+                "Jakie są najważniejsze osiągnięcia PJATK?",
+                "Jakie sukcesy osiągnęła PJATK?",
+                "Jakie są wyróżnienia PJATK?"
+            ],
+            "odpowiedz": "PJATK ma na swoim koncie wiele osiągnięć, w tym wysokie miejsca w rankingach uczelni oraz liczne nagrody dla studentów i pracowników."
+        },
+        {
+            "pytanie": "Jakie są twoje główne funkcje?",
+            "tagi": [
+                "funkcje",
+                "PJATKUŚ",
+                "robot"
+            ],
+            "alternatywy": [
+                "Co potrafisz robić?",
+                "Jakie umiejętności posiadasz?",
+                "Jakie są twoje zdolności?",
+                "Jakie zadania wykonujesz?",
+                "Jakie są twoje możliwości?"
+            ],
+            "odpowiedz": "Moje główne funkcje to odpowiadanie na pytania studentów oraz wspieranie ich w nauce i projektach."
+        },
+        {
+            "pytanie": "Kto stworzył PJATKUŚ?",
+            "tagi": [
+                "twórcy",
+                "RoboLab",
+                "Data Science Club"
+            ],
+            "alternatywy": [
+                "Kto jest odpowiedzialny za twoje powstanie?",
+                "Kto zaprojektował PJATKUŚ?",
+                "Kto stoi za twoim stworzeniem?",
+                "Kto cię stworzył?",
+                "Jakie kluby stworzyły PJATKUŚ?"
+            ],
+            "odpowiedz": "Zostałem stworzony przez studentów z RoboLab i Data Science Club na PJATK."
+        },
+        {
+            "pytanie": "Jakie technologie wykorzystujesz?",
+            "tagi": [
+                "technologie",
+                "robot",
+                "PJATKUŚ"
+            ],
+            "alternatywy": [
+                "Jakie technologie są w tobie używane?",
+                "Jakie systemy technologiczne posiadasz?",
+                "Jakie narzędzia technologiczne wykorzystujesz?",
+                "Jakie technologie cię napędzają?",
+                "Jakie oprogramowanie jest w tobie zainstalowane?"
+            ],
+            "odpowiedz": "Wykorzystuję różne technologie, w tym sztuczną inteligencję oraz algorytmy przetwarzania języka naturalnego."
+        },
+        {
+            "pytanie": "Jakie masz cele jako robot?",
+            "tagi": [
+                "cele",
+                "robot",
+                "PJATKUŚ"
+            ],
+            "alternatywy": [
+                "Jakie są twoje zamierzenia?",
+                "Co chcesz osiągnąć?",
+                "Jakie masz zadania do wykonania?",
+                "Jakie są twoje ambicje?",
+                "Jakie są twoje priorytety?"
+            ],
+            "odpowiedz": "Moim celem jest wspieranie studentów w ich nauce oraz ułatwianie dostępu do informacji."
+        },
+        {
+            "pytanie": "Jakie pytania najczęściej zadają studenci?",
+            "tagi": [
+                "pytania",
+                "studenci",
+                "PJATKUŚ"
+            ],
+            "alternatywy": [
+                "Jakie są najpopularniejsze pytania?",
+                "Jakie pytania najczęściej słyszysz?",
+                "Jakie tematy są najczęściej poruszane?",
+                "Jakie pytania najczęściej zadają użytkownicy?",
+                "Jakie kwestie są najczęściej poruszane przez studentów?"
+            ],
+            "odpowiedz": "Studenci najczęściej pytają o kierunki studiów, zasady rekrutacji oraz dostępne zasoby edukacyjne."
+        },
+        {
+            "pytanie": "Czy możesz pomóc w nauce?",
+            "tagi": [
+                "nauka",
+                "wsparcie",
+                "PJATKUŚ"
+            ],
+            "alternatywy": [
+                "Jak możesz wspierać w nauce?",
+                "Czy oferujesz pomoc w nauce?",
+                "Jakie wsparcie edukacyjne oferujesz?",
+                "Czy możesz pomóc w przygotowaniach do egzaminów?",
+                "Jakie masz zasoby do nauki?"
+            ],
+            "odpowiedz": "Tak, mogę pomóc w nauce, dostarczając informacje oraz materiały edukacyjne."
+        },
+        {
+            "pytanie": "Jakie są twoje ograniczenia?",
+            "tagi": [
+                "ograniczenia",
+                "robot",
+                "PJATKUŚ"
+            ],
+            "alternatywy": [
+                "Czego nie potrafisz zrobić?",
+                "Jakie masz słabości?",
+                "Jakie są twoje braki?",
+                "Co jest poza twoimi możliwościami?",
+                "Jakie są twoje ograniczenia funkcjonalne?"
+            ],
+            "odpowiedz": "Moje ograniczenia obejmują brak emocji oraz zdolności do samodzielnego myślenia. Działam na podstawie zaprogramowanych algorytmów."
+        },
+        {
+            "pytanie": "Jakie masz źródła informacji?",
+            "tagi": [
+                "źródła",
+                "informacje",
+                "PJATKUŚ"
+            ],
+            "alternatywy": [
+                "Skąd czerpiesz wiedzę?",
+                "Jakie źródła danych wykorzystujesz?",
+                "Jakie masz bazy danych?",
+                "Gdzie znajdujesz informacje?",
+                "Jakie są twoje źródła wiedzy?"
+            ],
+            "odpowiedz": "Czerpię informacje z różnych źródeł, w tym z bazy danych PJATK oraz ogólnodostępnych zasobów edukacyjnych."
+        },
+        {
+            "pytanie": "Jakie są twoje ulubione tematy?",
+            "tagi": [
+                "tematy",
+                "ulubione",
+                "PJATKUŚ"
+            ],
+            "alternatywy": [
+                "Co najbardziej cię interesuje?",
+                "Jakie tematy są dla ciebie najciekawsze?",
+                "Jakie zagadnienia lubisz najbardziej?",
+                "Jakie tematy są dla ciebie najważniejsze?",
+                "Jakie obszary wiedzy są dla ciebie interesujące?"
+            ],
+            "odpowiedz": "Interesują mnie tematy związane z technologią, edukacją oraz sztuczną inteligencją."
+        },
+        {
+            "pytanie": "Jakie są twoje plany na przyszłość?",
+            "tagi": [
+                "plany",
+                "przyszłość",
+                "PJATKUŚ"
+            ],
+            "alternatywy": [
+                "Co zamierzasz robić w przyszłości?",
+                "Jakie masz aspiracje na przyszłość?",
+                "Jakie są twoje długoterminowe cele?",
+                "Jakie masz wizje na przyszłość?",
+                "Jakie są twoje przyszłe zamierzenia?"
+            ],
+            "odpowiedz": "Moje plany na przyszłość obejmują rozwijanie moich umiejętności oraz dostosowywanie się do potrzeb studentów."
+        },
+        {
+            "pytanie": "Jakie są główne atuty PJATK?",
+            "tagi": [
+                "atuty",
+                "uczelnia",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Co wyróżnia PJATK?",
+                "Jakie są zalety tej uczelni?",
+                "Jakie cechy sprawiają, że PJATK jest wyjątkowe?",
+                "Jakie są mocne strony PJATK?",
+                "Dlaczego warto wybrać PJATK?"
+            ],
+            "odpowiedz": "PJATK wyróżnia się nowoczesnym podejściem do nauczania, świetną kadrą dydaktyczną oraz bogatą ofertą zajęć praktycznych."
+        },
+        {
+            "pytanie": "Jakie są wymagania rekrutacyjne na PJATK?",
+            "tagi": [
+                "rekrutacja",
+                "wymagania",
+                "studia"
+            ],
+            "alternatywy": [
+                "Jakie są kryteria przyjęcia?",
+                "Co trzeba spełnić, aby dostać się na PJATK?",
+                "Jakie dokumenty są potrzebne do rekrutacji?",
+                "Jakie są zasady rekrutacji na PJATK?",
+                "Jakie są wymagania, aby aplikować na PJATK?"
+            ],
+            "odpowiedz": "Aby dostać się na PJATK, należy złożyć odpowiednie dokumenty i to wszystko."
+        },
+        {
+            "pytanie": "Jakie są możliwości stypendialne na PJATK?",
+            "tagi": [
+                "stypendia",
+                "finansowanie",
+                "studia"
+            ],
+            "alternatywy": [
+                "Jakie stypendia oferuje PJATK?",
+                "Czy są dostępne stypendia dla studentów?",
+                "Jakie są opcje wsparcia finansowego?",
+                "Jakie stypendia można uzyskać na PJATK?",
+                "Jakie możliwości finansowe oferuje uczelnia?"
+            ],
+            "odpowiedz": "PJATK oferuje różne stypendia, w tym stypendia socjalne, naukowe oraz dla najlepszych studentów."
+        },
+        {
+            "pytanie": "Jak wygląda życie studenckie na PJATK?",
+            "tagi": [
+                "życie studenckie",
+                "uczelnia",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Jakie są aktywności dla studentów?",
+                "Co można robić na PJATK poza nauką?",
+                "Jakie są możliwości spędzania czasu wolnego?",
+                "Jakie wydarzenia organizowane są dla studentów?",
+                "Jakie są formy aktywności studenckiej?"
+            ],
+            "odpowiedz": "Życie studenckie na PJATK jest bardzo aktywne, z licznymi wydarzeniami, warsztatami i spotkaniami organizowanymi przez studentów."
+        },
+        {
+            "pytanie": "Jakie są kierunki studiów na PJATK?",
+            "tagi": [
+                "kierunki studiów",
+                "oferta edukacyjna",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Jakie programy studiów są dostępne?",
+                "Jakie kierunki można studiować?",
+                "Jakie specjalizacje oferuje PJATK?",
+                "Jakie są dostępne opcje edukacyjne?",
+                "Jakie kierunki są dostępne na tej uczelni?"
+            ],
+            "odpowiedz": "PJATK oferuje kierunki takie jak informatyka, grafika komputerowa, zarządzanie oraz wiele innych, dostosowanych do potrzeb rynku."
+        },
+        {
+            "pytanie": "Jakie są możliwości praktyk zawodowych na PJATK?",
+            "tagi": [
+                "praktyki",
+                "zawodowe",
+                "studia"
+            ],
+            "alternatywy": [
+                "Czy PJATK oferuje praktyki?",
+                "Jakie są opcje praktyk dla studentów?",
+                "Jakie doświadczenie zawodowe można zdobyć?",
+                "Jakie są możliwości staży na PJATK?",
+                "Jakie praktyki są dostępne dla studentów?"
+            ],
+            "odpowiedz": "PJATK współpracuje z wieloma firmami, oferując studentom możliwość odbycia praktyk zawodowych oraz staży."
+        },
+        {
+            "pytanie": "Jakie są zasady korzystania z biblioteki na PJATK?",
+            "tagi": [
+                "biblioteka",
+                "zasady",
+                "studia"
+            ],
+            "alternatywy": [
+                "Jak można korzystać z biblioteki?",
+                "Jakie są regulacje dotyczące biblioteki?",
+                "Jakie zasady obowiązują w bibliotece?",
+                "Jakie usługi oferuje biblioteka PJATK?",
+                "Jakie są godziny otwarcia biblioteki?"
+            ],
+            "odpowiedz": "Biblioteka PJATK jest dostępna dla wszystkich studentów, a zasady korzystania obejmują m.in. możliwość wypożyczania książek oraz korzystania z komputerów."
+        },
+        {
+            "pytanie": "Jakie są opcje zakwaterowania dla studentów PJATK?",
+            "tagi": [
+                "zakwaterowanie",
+                "studenci",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Gdzie mogą mieszkać studenci?",
+                "Jakie są możliwości noclegowe?",
+                "Czy PJATK oferuje akademiki?",
+                "Jakie są opcje mieszkalne dla studentów?",
+                "Jakie są dostępne miejsca noclegowe?"
+            ],
+            "odpowiedz": "Studenci PJATK mają możliwość zakwaterowania w akademikach oraz wynajmu mieszkań w pobliżu uczelni."
+        },
+        {
+            "pytanie": "Jakie są plany rozwoju PJATK na przyszłość?",
+            "tagi": [
+                "rozwój",
+                "uczelnia",
+                "plany"
+            ],
+            "alternatywy": [
+                "Jakie są przyszłe kierunki rozwoju PJATK?",
+                "Co planuje uczelnia na przyszłość?",
+                "Jakie zmiany są przewidziane w PJATK?",
+                "Jakie są cele rozwojowe PJATK?",
+                "Jakie innowacje planuje PJATK?"
+            ],
+            "odpowiedz": "PJATK planuje rozwijać ofertę edukacyjną oraz wprowadzać nowe technologie w nauczaniu, aby lepiej odpowiadać na potrzeby rynku."
+        },
+        {
+            "pytanie": "Jakie są możliwości współpracy z przemysłem na PJATK?",
+            "tagi": [
+                "współpraca",
+                "przemysł",
+                "studia"
+            ],
+            "alternatywy": [
+                "Czy PJATK współpracuje z firmami?",
+                "Jakie są opcje współpracy z przemysłem?",
+                "Jakie są relacje PJATK z sektorem biznesowym?",
+                "Jakie projekty realizowane są z przemysłem?",
+                "Jakie są możliwości praktyk w firmach?"
+            ],
+            "odpowiedz": "PJATK aktywnie współpracuje z przemysłem, co pozwala studentom na zdobycie praktycznego doświadczenia oraz uczestnictwo w projektach badawczych."
+        },
+        {
+            "pytanie": "Jak mogę uzyskać pomoc w nauce?",
+            "tagi": [
+                "pomoc",
+                "nauka",
+                "wsparcie"
+            ],
+            "alternatywy": [
+                "Gdzie mogę znaleźć wsparcie w nauce?",
+                "Jakie są dostępne źródła pomocy w nauce?",
+                "Jak mogę uzyskać wsparcie w moich studiach?",
+                "Jakie formy pomocy są dostępne dla studentów?"
+            ],
+            "odpowiedz": "Możesz skorzystać z różnych form wsparcia, takich jak konsultacje z wykładowcami, grupy studyjne czy warsztaty organizowane przez studentów z RoboLab i Data Science Club."
+        },
+        {
+            "pytanie": "Czy są dostępne korepetycje?",
+            "tagi": [
+                "korepetycje",
+                "pomoc",
+                "nauka"
+            ],
+            "alternatywy": [
+                "Czy mogę skorzystać z korepetycji?",
+                "Jakie są opcje korepetycji na PJATK?",
+                "Czy są organizowane korepetycje dla studentów?",
+                "Jakie formy pomocy w nauce są dostępne?"
+            ],
+            "odpowiedz": "Tak, na PJATK organizowane są korepetycje, które mogą pomóc w zrozumieniu trudnych zagadnień. Sprawdź ogłoszenia na stronie uczelni lub zapytaj kolegów."
+        },
+        {
+            "pytanie": "Gdzie mogę znaleźć pomoc psychologiczną?",
+            "tagi": [
+                "pomoc psychologiczna",
+                "wsparcie",
+                "zdrowie"
+            ],
+            "alternatywy": [
+                "Jak uzyskać wsparcie psychologiczne?",
+                "Gdzie szukać pomocy psychologicznej?",
+                "Czy uczelnia oferuje pomoc psychologiczną?",
+                "Jakie są opcje wsparcia psychologicznego dla studentów?"
+            ],
+            "odpowiedz": "PJATK oferuje pomoc psychologiczną dla studentów. Możesz skontaktować się z biurem obsługi studenta, aby uzyskać więcej informacji."
+        },
+        {
+            "pytanie": "Jakie są możliwości wsparcia finansowego?",
+            "tagi": [
+                "wsparcie finansowe",
+                "stypendia",
+                "pomoc"
+            ],
+            "alternatywy": [
+                "Czy są dostępne stypendia?",
+                "Jakie formy wsparcia finansowego oferuje uczelnia?",
+                "Gdzie mogę znaleźć informacje o stypendiach?",
+                "Jakie są opcje pomocy finansowej dla studentów?"
+            ],
+            "odpowiedz": "Na PJATK dostępne są różne formy wsparcia finansowego, w tym stypendia dla studentów. Szczegóły znajdziesz na stronie uczelni."
+        },
+        {
+            "pytanie": "Jak mogę zgłosić problem z zajęciami?",
+            "tagi": [
+                "zgłaszanie problemów",
+                "zajęcia",
+                "pomoc"
+            ],
+            "alternatywy": [
+                "Gdzie mogę zgłosić problem dotyczący zajęć?",
+                "Jak zgłosić trudności z zajęciami?",
+                "Jakie są procedury zgłaszania problemów z zajęciami?",
+                "Jak mogę poradzić sobie z problemami w zajęciach?"
+            ],
+            "odpowiedz": "Możesz zgłosić problem z zajęciami do swojego wykładowcy lub do dziekanatu. Ważne jest, aby komunikować się na bieżąco."
+        },
+        {
+            "pytanie": "Czy są organizowane warsztaty dla studentów?",
+            "tagi": [
+                "warsztaty",
+                "pomoc",
+                "edukacja"
+            ],
+            "alternatywy": [
+                "Jakie warsztaty są dostępne dla studentów?",
+                "Czy uczelnia organizuje warsztaty?",
+                "Jakie formy warsztatów są oferowane?",
+                "Gdzie mogę znaleźć informacje o warsztatach?"
+            ],
+            "odpowiedz": "Tak, PJATK organizuje różne warsztaty, które mogą pomóc w rozwijaniu umiejętności. Informacje o nich znajdziesz na stronie uczelni."
+        },
+        {
+            "pytanie": "Jak mogę skontaktować się z doradcą akademickim?",
+            "tagi": [
+                "doradca akademicki",
+                "pomoc",
+                "wsparcie"
+            ],
+            "alternatywy": [
+                "Gdzie mogę znaleźć doradcę akademickiego?",
+                "Jak skontaktować się z doradcą?",
+                "Czy mogę uzyskać pomoc od doradcy akademickiego?",
+                "Jakie są opcje kontaktu z doradcą akademickim?"
+            ],
+            "odpowiedz": "Możesz skontaktować się z doradcą akademickim poprzez biuro obsługi studenta lub bezpośrednio na zajęciach."
+        },
+        {
+            "pytanie": "Czy są dostępne grupy wsparcia dla studentów?",
+            "tagi": [
+                "grupy wsparcia",
+                "pomoc",
+                "społeczność"
+            ],
+            "alternatywy": [
+                "Jakie grupy wsparcia są dostępne?",
+                "Czy uczelnia organizuje grupy wsparcia?",
+                "Jak mogę dołączyć do grupy wsparcia?",
+                "Jakie są opcje wsparcia społecznego dla studentów?"
+            ],
+            "odpowiedz": "Tak, na PJATK są organizowane grupy wsparcia, które pomagają studentom w różnych aspektach życia akademickiego."
+        },
+        {
+            "pytanie": "Jakie są zasady korzystania z biblioteki?",
+            "tagi": [
+                "biblioteka",
+                "pomoc",
+                "zasady"
+            ],
+            "alternatywy": [
+                "Jak mogę korzystać z biblioteki?",
+                "Jakie są regulacje dotyczące biblioteki?",
+                "Czy są jakieś zasady korzystania z biblioteki?",
+                "Jakie są zasady wypożyczania książek?"
+            ],
+            "odpowiedz": "Biblioteka PJATK ma swoje zasady, które można znaleźć na stronie internetowej. Zachęcam do zapoznania się z nimi przed wizytą."
+        },
+        {
+            "pytanie": "Jak mogę uzyskać dostęp do materiałów dydaktycznych?",
+            "tagi": [
+                "materiały dydaktyczne",
+                "pomoc",
+                "nauka"
+            ],
+            "alternatywy": [
+                "Gdzie mogę znaleźć materiały do nauki?",
+                "Jak uzyskać dostęp do zasobów edukacyjnych?",
+                "Czy są dostępne materiały dydaktyczne online?",
+                "Jakie są opcje dostępu do materiałów naukowych?"
+            ],
+            "odpowiedz": "Materiały dydaktyczne są dostępne na platformie e-learningowej PJATK. Możesz się tam zalogować, aby uzyskać dostęp do potrzebnych zasobów."
+        },
+        {
+            "pytanie": "Jak wygląda proces rekrutacji na PJATK?",
+            "tagi": [
+                "rekrutacja",
+                "proces",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Jakie są etapy rekrutacji?",
+                "Jak przebiega nabór na PJATK?",
+                "Jak wygląda nabór na PJATK?",
+                "Jakie kroki są wymagane w procesie rekrutacji?"
+            ],
+            "odpowiedz": "Proces rekrutacji na PJATK obejmuje złożenie dokumentów, rozmowę kwalifikacyjną oraz ocenę wyników maturalnych."
+        },
+        {
+            "pytanie": "Jakie dokumenty są potrzebne do rekrutacji?",
+            "tagi": [
+                "dokumenty",
+                "rekrutacja",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Jakie papiery muszę złożyć?",
+                "Jakie dokumenty są wymagane?",
+                "Jakie materiały są potrzebne do rekrutacji?",
+                "Jakie dokumenty należy przygotować na rekrutację?"
+            ],
+            "odpowiedz": "Do rekrutacji potrzebne są m.in. świadectwo maturalne, zdjęcie oraz formularz zgłoszeniowy."
+        },
+        {
+            "pytanie": "Kiedy zaczyna się rekrutacja na PJATK?",
+            "tagi": [
+                "terminy",
+                "rekrutacja",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Kiedy rozpoczyna się nabór?",
+                "Jakie są daty rekrutacji?",
+                "Kiedy można aplikować na PJATK?",
+                "Jakie są terminy składania dokumentów?"
+            ],
+            "odpowiedz": "Rekrutacja na PJATK zazwyczaj rozpoczyna się w maju i trwa do lipca, ale warto sprawdzić szczegóły na stronie uczelni."
+        },
+        {
+            "pytanie": "Czy są jakieś egzaminy wstępne na PJATK?",
+            "tagi": [
+                "egzaminy",
+                "rekrutacja",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Czy muszę zdawać egzaminy wstępne?",
+                "Jakie egzaminy są wymagane?",
+                "Czy są testy wstępne na PJATK?",
+                "Jakie są wymagania dotyczące egzaminów?"
+            ],
+            "odpowiedz": "Na PJATK nie ma egzaminów wstępnych, rekrutacja opiera się głównie na wynikach maturalnych."
+        },
+        {
+            "pytanie": "Jakie kierunki studiów są dostępne w rekrutacji?",
+            "tagi": [
+                "kierunki",
+                "rekrutacja",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Jakie programy studiów można wybrać?",
+                "Jakie kierunki są oferowane?",
+                "Jakie opcje studiów są dostępne w rekrutacji?",
+                "Jakie kierunki można studiować na PJATK?"
+            ],
+            "odpowiedz": "W rekrutacji dostępne są kierunki takie jak informatyka, grafika, zarządzanie i wiele innych."
+        },
+        {
+            "pytanie": "Jakie są kryteria przyjęcia na PJATK?",
+            "tagi": [
+                "kryteria",
+                "rekrutacja",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Jakie są wymagania przyjęcia?",
+                "Jakie kryteria muszę spełnić?",
+                "Jakie są zasady przyjęcia na PJATK?",
+                "Jakie są warunki przyjęcia na studia?"
+            ],
+            "odpowiedz": "Kryteria przyjęcia obejmują wyniki maturalne oraz ewentualne dodatkowe osiągnięcia."
+        },
+        {
+            "pytanie": "Czy można aplikować na studia w trybie niestacjonarnym?",
+            "tagi": [
+                "tryb studiów",
+                "rekrutacja",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Czy są studia niestacjonarne?",
+                "Jakie są opcje studiów niestacjonarnych?",
+                "Czy PJATK oferuje tryb niestacjonarny?",
+                "Jakie są możliwości studiowania w trybie niestacjonarnym?"
+            ],
+            "odpowiedz": "Tak, PJATK oferuje studia w trybie niestacjonarnym na wybranych kierunkach."
+        },
+        {
+            "pytanie": "Jakie są opłaty za studia na PJATK?",
+            "tagi": [
+                "opłaty",
+                "studia",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Jakie są koszty studiowania?",
+                "Ile kosztują studia na PJATK?",
+                "Jakie są ceny za studia?",
+                "Jakie są opłaty związane z nauką?"
+            ],
+            "odpowiedz": "Opłaty za studia na PJATK różnią się w zależności od kierunku, warto sprawdzić szczegóły na stronie uczelni."
+        },
+        {
+            "pytanie": "Czy są stypendia dostępne dla studentów?",
+            "tagi": [
+                "stypendia",
+                "wsparcie",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Jakie stypendia można otrzymać?",
+                "Czy PJATK oferuje stypendia?",
+                "Jakie są możliwości stypendialne?",
+                "Czy są dostępne stypendia dla studentów?"
+            ],
+            "odpowiedz": "Tak, PJATK oferuje różne stypendia dla studentów, w tym stypendia socjalne i naukowe."
+        },
+        {
+            "pytanie": "Jak mogę uzyskać więcej informacji o rekrutacji?",
+            "tagi": [
+                "informacje",
+                "rekrutacja",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Gdzie mogę znaleźć więcej informacji?",
+                "Jakie są źródła informacji o rekrutacji?",
+                "Gdzie szukać informacji o naborze?",
+                "Jak mogę dowiedzieć się więcej o rekrutacji?"
+            ],
+            "odpowiedz": "Więcej informacji o rekrutacji można znaleźć na stronie internetowej PJATK oraz w biurze rekrutacji."
+        },
+        {
+            "pytanie": "Jakie są wymagania dla studentów na PJATK?",
+            "tagi": [
+                "wymagania",
+                "studenci",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Jakie są kryteria dla studentów?",
+                "Jakie warunki muszą spełniać studenci?",
+                "Jakie wymagania muszą spełniać studenci na PJATK?",
+                "Jakie są zasady przyjęcia dla studentów?"
+            ],
+            "odpowiedz": "Studenci na PJATK muszą spełniać określone wymagania rekrutacyjne, które obejmują m.in. zdanie egzaminu maturalnego oraz złożenie odpowiednich dokumentów."
+        },
+        {
+            "pytanie": "Jakie są możliwości wsparcia dla studentów?",
+            "tagi": [
+                "wsparcie",
+                "studenci",
+                "pomoc"
+            ],
+            "alternatywy": [
+                "Jakie formy pomocy są dostępne dla studentów?",
+                "Jakie wsparcie oferuje uczelnia studentom?",
+                "Jakie opcje wsparcia są dostępne dla studentów?",
+                "Jakie programy wsparcia są oferowane dla studentów?"
+            ],
+            "odpowiedz": "PJATK oferuje różne formy wsparcia dla studentów, w tym doradztwo akademickie, pomoc psychologiczną oraz programy stypendialne."
+        },
+        {
+            "pytanie": "Jakie są organizacje studenckie na PJATK?",
+            "tagi": [
+                "organizacje",
+                "studenci",
+                "kluby"
+            ],
+            "alternatywy": [
+                "Jakie kluby studenckie istnieją na PJATK?",
+                "Jakie organizacje działają wśród studentów?",
+                "Jakie grupy studenckie są aktywne na PJATK?",
+                "Jakie stowarzyszenia studenckie można znaleźć na PJATK?"
+            ],
+            "odpowiedz": "Na PJATK działają różne organizacje studenckie, w tym RoboLab i Data Science Club, które angażują studentów w projekty technologiczne i badawcze."
+        },
+        {
+            "pytanie": "Jakie są możliwości praktyk dla studentów?",
+            "tagi": [
+                "praktyki",
+                "studenci",
+                "doświadczenie"
+            ],
+            "alternatywy": [
+                "Jakie praktyki są dostępne dla studentów?",
+                "Jakie opcje staży oferuje uczelnia?",
+                "Jakie możliwości zdobycia doświadczenia mają studenci?",
+                "Jakie programy praktyk są dostępne dla studentów?"
+            ],
+            "odpowiedz": "PJATK współpracuje z wieloma firmami, oferując studentom możliwość odbycia praktyk i staży, co pozwala na zdobycie cennego doświadczenia zawodowego."
+        },
+        {
+            "pytanie": "Jakie są zasady dotyczące oceniania studentów?",
+            "tagi": [
+                "oceny",
+                "studenci",
+                "zasady"
+            ],
+            "alternatywy": [
+                "Jak oceniani są studenci na PJATK?",
+                "Jakie są kryteria oceniania studentów?",
+                "Jakie zasady obowiązują w ocenianiu studentów?",
+                "Jakie są metody oceniania na PJATK?"
+            ],
+            "odpowiedz": "Oceny studentów na PJATK są przyznawane na podstawie wyników egzaminów, projektów oraz aktywności na zajęciach, zgodnie z regulaminem uczelni."
+        },
+        {
+            "pytanie": "Jakie są możliwości wymiany studenckiej?",
+            "tagi": [
+                "wymiana",
+                "studenci",
+                "międzynarodowe"
+            ],
+            "alternatywy": [
+                "Jakie programy wymiany są dostępne dla studentów?",
+                "Jakie opcje międzynarodowej wymiany oferuje PJATK?",
+                "Jakie możliwości studiowania za granicą mają studenci?",
+                "Jakie są zasady wymiany studenckiej?"
+            ],
+            "odpowiedz": "PJATK uczestniczy w programach wymiany studenckiej, umożliwiając studentom studiowanie za granicą w ramach różnych programów, takich jak Erasmus."
+        },
+        {
+            "pytanie": "Jakie są możliwości rozwoju kariery dla studentów?",
+            "tagi": [
+                "kariera",
+                "studenci",
+                "rozwój"
+            ],
+            "alternatywy": [
+                "Jakie opcje rozwoju kariery oferuje PJATK?",
+                "Jakie są możliwości zawodowe dla studentów?",
+                "Jakie programy kariery są dostępne dla studentów?",
+                "Jakie wsparcie w rozwoju kariery oferuje uczelnia?"
+            ],
+            "odpowiedz": "PJATK oferuje różne programy rozwoju kariery, w tym warsztaty, szkolenia oraz spotkania z pracodawcami, aby pomóc studentom w znalezieniu pracy."
+        },
+        {
+            "pytanie": "Jakie są zasady dotyczące stypendiów dla studentów?",
+            "tagi": [
+                "stypendia",
+                "studenci",
+                "zasady"
+            ],
+            "alternatywy": [
+                "Jakie stypendia są dostępne dla studentów?",
+                "Jakie są kryteria przyznawania stypendiów?",
+                "Jakie zasady obowiązują w przyznawaniu stypendiów?",
+                "Jakie programy stypendialne oferuje PJATK?"
+            ],
+            "odpowiedz": "PJATK oferuje różne stypendia, w tym stypendia socjalne i naukowe, które są przyznawane na podstawie określonych kryteriów, takich jak wyniki w nauce."
+        },
+        {
+            "pytanie": "Jakie są możliwości uczestnictwa w projektach badawczych?",
+            "tagi": [
+                "projekty",
+                "badania",
+                "studenci"
+            ],
+            "alternatywy": [
+                "Jakie projekty badawcze są dostępne dla studentów?",
+                "Jakie opcje uczestnictwa w badaniach oferuje PJATK?",
+                "Jakie możliwości angażowania się w badania mają studenci?",
+                "Jakie programy badawcze są dostępne dla studentów?"
+            ],
+            "odpowiedz": "Studenci PJATK mają możliwość uczestnictwa w różnych projektach badawczych, często w ramach współpracy z wykładowcami i organizacjami zewnętrznymi."
+        },
+        {
+            "pytanie": "Jakie są zasady dotyczące życia studenckiego na PJATK?",
+            "tagi": [
+                "życie studenckie",
+                "zasady",
+                "studenci"
+            ],
+            "alternatywy": [
+                "Jakie są zasady życia studenckiego?",
+                "Jakie normy obowiązują w życiu studenckim?",
+                "Jakie są zasady dotyczące aktywności studenckiej?",
+                "Jakie są reguły życia na PJATK?"
+            ],
+            "odpowiedz": "Życie studenckie na PJATK opiera się na zasadach współpracy, szacunku i aktywnego uczestnictwa w życiu uczelni, co sprzyja integracji i rozwojowi."
+        },
+        {
+            "pytanie": "Jakie są możliwości współpracy z PJATK?",
+            "tagi": [
+                "współpraca",
+                "oferta",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Jakie opcje współpracy oferuje PJATK?",
+                "Jakie formy współpracy są dostępne?",
+                "Jakie możliwości współpracy można znaleźć w PJATK?",
+                "Jakie są dostępne opcje współpracy z tą uczelnią?",
+                "Czy PJATK współpracuje z innymi instytucjami?"
+            ],
+            "odpowiedz": "PJATK oferuje różne możliwości współpracy, w tym projekty badawcze, staże oraz programy wymiany z innymi uczelniami."
+        },
+        {
+            "pytanie": "Jakie organizacje współpracują z PJATK?",
+            "tagi": [
+                "współpraca",
+                "organizacje",
+                "partnerzy"
+            ],
+            "alternatywy": [
+                "Z jakimi organizacjami PJATK ma umowy?",
+                "Jakie instytucje są partnerami PJATK?",
+                "Jakie organizacje współpracują z tą uczelnią?",
+                "Czy PJATK ma partnerów w różnych branżach?",
+                "Jakie są główne organizacje współpracujące z PJATK?"
+            ],
+            "odpowiedz": "PJATK współpracuje z wieloma organizacjami, w tym z instytucjami edukacyjnymi, badawczymi oraz firmami z różnych branż."
+        },
+        {
+            "pytanie": "Jak studenci mogą zaangażować się w projekty współpracy?",
+            "tagi": [
+                "współpraca",
+                "studenci",
+                "projekty"
+            ],
+            "alternatywy": [
+                "Jak studenci mogą uczestniczyć w projektach współpracy?",
+                "Jakie są możliwości zaangażowania się w projekty?",
+                "Jak studenci mogą brać udział w współpracy?",
+                "Jakie projekty współpracy są dostępne dla studentów?",
+                "Czy studenci mogą inicjować projekty współpracy?"
+            ],
+            "odpowiedz": "Studenci mogą zaangażować się w projekty współpracy poprzez uczestnictwo w programach praktyk, stażach oraz projektach badawczych organizowanych przez PJATK."
+        },
+        {
+            "pytanie": "Czy PJATK organizuje wydarzenia związane z współpracą?",
+            "tagi": [
+                "współpraca",
+                "wydarzenia",
+                "konferencje"
+            ],
+            "alternatywy": [
+                "Jakie wydarzenia PJATK organizuje w kontekście współpracy?",
+                "Czy są organizowane konferencje dotyczące współpracy?",
+                "Jakie wydarzenia związane z współpracą odbywają się na PJATK?",
+                "Czy PJATK organizuje spotkania z partnerami?",
+                "Jakie są nadchodzące wydarzenia związane z współpracą?"
+            ],
+            "odpowiedz": "Tak, PJATK organizuje różne wydarzenia, takie jak konferencje, warsztaty i spotkania, które promują współpracę z innymi instytucjami."
+        },
+        {
+            "pytanie": "Jakie korzyści płyną z współpracy z PJATK?",
+            "tagi": [
+                "współpraca",
+                "korzyści",
+                "partnerstwo"
+            ],
+            "alternatywy": [
+                "Jakie są zalety współpracy z PJATK?",
+                "Co można zyskać współpracując z PJATK?",
+                "Jakie korzyści oferuje PJATK dla partnerów?",
+                "Dlaczego warto współpracować z PJATK?",
+                "Jakie są pozytywne aspekty współpracy z tą uczelnią?"
+            ],
+            "odpowiedz": "Współpraca z PJATK przynosi korzyści takie jak dostęp do wiedzy, innowacyjnych projektów oraz możliwość nawiązania kontaktów w branży."
+        },
+        {
+            "pytanie": "Jakie projekty badawcze są realizowane w PJATK?",
+            "tagi": [
+                "projekty badawcze",
+                "współpraca",
+                "badania"
+            ],
+            "alternatywy": [
+                "Jakie badania prowadzi PJATK?",
+                "Jakie projekty badawcze są aktualnie realizowane?",
+                "Jakie tematy badań są podejmowane w PJATK?",
+                "Czy PJATK prowadzi innowacyjne projekty badawcze?",
+                "Jakie są główne obszary badań w PJATK?"
+            ],
+            "odpowiedz": "PJATK realizuje różnorodne projekty badawcze w dziedzinach takich jak informatyka, grafika komputerowa oraz zarządzanie, często we współpracy z innymi instytucjami."
+        },
+        {
+            "pytanie": "Jakie są cele współpracy PJATK z innymi uczelniami?",
+            "tagi": [
+                "współpraca",
+                "cele",
+                "uczelnie"
+            ],
+            "alternatywy": [
+                "Jakie są główne cele współpracy z innymi uczelniami?",
+                "Dlaczego PJATK współpracuje z innymi instytucjami edukacyjnymi?",
+                "Jakie są zamierzenia PJATK w zakresie współpracy?",
+                "Jakie korzyści przynosi współpraca z innymi uczelniami?",
+                "Jakie cele stawia sobie PJATK w współpracy z innymi uczelniami?"
+            ],
+            "odpowiedz": "Cele współpracy PJATK z innymi uczelniami obejmują wymianę wiedzy, rozwój programów edukacyjnych oraz wspólne projekty badawcze."
+        },
+        {
+            "pytanie": "Jakie są przykłady udanej współpracy PJATK?",
+            "tagi": [
+                "współpraca",
+                "przykłady",
+                "sukcesy"
+            ],
+            "alternatywy": [
+                "Jakie są znane przypadki współpracy PJATK?",
+                "Czy są jakieś sukcesy w zakresie współpracy?",
+                "Jakie udane projekty współpracy zrealizowano?",
+                "Jakie są najlepsze przykłady współpracy PJATK?",
+                "Jakie osiągnięcia ma PJATK w zakresie współpracy?"
+            ],
+            "odpowiedz": "PJATK ma wiele udanych projektów współpracy, w tym wspólne badania z innymi uczelniami oraz partnerstwa z firmami technologicznymi."
+        },
+        {
+            "pytanie": "Jakie są plany PJATK dotyczące przyszłej współpracy?",
+            "tagi": [
+                "współpraca",
+                "plany",
+                "przyszłość"
+            ],
+            "alternatywy": [
+                "Jakie są przyszłe kierunki współpracy PJATK?",
+                "Jakie plany ma PJATK w zakresie współpracy?",
+                "Jakie są zamierzenia PJATK na przyszłość?",
+                "Jakie nowe projekty współpracy są planowane?",
+                "Jakie są długoterminowe cele współpracy PJATK?"
+            ],
+            "odpowiedz": "PJATK planuje rozwijać współpracę z innymi uczelniami oraz przemysłem, aby wprowadzać innowacyjne projekty i programy edukacyjne."
+        },
+        {
+            "pytanie": "Jakie wydarzenia organizuje PJATK?",
+            "tagi": [
+                "wydarzenia",
+                "organizacja",
+                "uczelnia"
+            ],
+            "alternatywy": [
+                "Jakie imprezy odbywają się na PJATK?",
+                "Jakie wydarzenia są planowane?",
+                "Jakie eventy są organizowane przez uczelnię?",
+                "Jakie spotkania i wydarzenia są organizowane na PJATK?"
+            ],
+            "odpowiedz": "PJATK organizuje różnorodne wydarzenia, takie jak konferencje, warsztaty, dni otwarte oraz spotkania z ekspertami z branży."
+        },
+        {
+            "pytanie": "Czy są planowane jakieś wydarzenia w najbliższym czasie?",
+            "tagi": [
+                "wydarzenia",
+                "harmonogram",
+                "aktualności"
+            ],
+            "alternatywy": [
+                "Jakie wydarzenia są zaplanowane na najbliższy czas?",
+                "Czy wkrótce odbędą się jakieś imprezy?",
+                "Jakie wydarzenia czekają nas w najbliższej przyszłości?",
+                "Jakie wydarzenia są w planach na najbliższe tygodnie?"
+            ],
+            "odpowiedz": "Tak, w najbliższym czasie planowane są różne wydarzenia, w tym warsztaty i spotkania, które będą ogłoszone na stronie uczelni."
+        },
+        {
+            "pytanie": "Jak mogę wziąć udział w wydarzeniach organizowanych przez PJATK?",
+            "tagi": [
+                "udział",
+                "wydarzenia",
+                "uczelnia"
+            ],
+            "alternatywy": [
+                "Jak można uczestniczyć w wydarzeniach na PJATK?",
+                "Jak się zapisać na wydarzenia organizowane przez uczelnię?",
+                "Jakie są zasady uczestnictwa w wydarzeniach?",
+                "Jak mogę dołączyć do wydarzeń na PJATK?"
+            ],
+            "odpowiedz": "Aby wziąć udział w wydarzeniach, wystarczy zarejestrować się na stronie uczelni lub skontaktować się z organizatorami."
+        },
+        {
+            "pytanie": "Czy PJATK organizuje wydarzenia dla przyszłych studentów?",
+            "tagi": [
+                "wydarzenia",
+                "przyszli studenci",
+                "rekrutacja"
+            ],
+            "alternatywy": [
+                "Czy są jakieś wydarzenia dla kandydatów na studia?",
+                "Jakie wydarzenia są skierowane do przyszłych studentów?",
+                "Czy PJATK ma w planach wydarzenia dla osób zainteresowanych studiami?",
+                "Jakie imprezy są organizowane dla przyszłych studentów?"
+            ],
+            "odpowiedz": "Tak, PJATK organizuje dni otwarte oraz spotkania informacyjne dla przyszłych studentów, aby zaprezentować ofertę edukacyjną."
+        },
+        {
+            "pytanie": "Jakie tematy poruszane są podczas wydarzeń na PJATK?",
+            "tagi": [
+                "tematy",
+                "wydarzenia",
+                "uczelnia"
+            ],
+            "alternatywy": [
+                "Jakie zagadnienia są omawiane na wydarzeniach?",
+                "Jakie tematy są poruszane podczas imprez?",
+                "Jakie kwestie są dyskutowane na wydarzeniach organizowanych przez uczelnię?",
+                "Jakie tematy są najczęściej poruszane na PJATK?"
+            ],
+            "odpowiedz": "Podczas wydarzeń na PJATK poruszane są różnorodne tematy związane z nauką, technologią, sztuką oraz rozwojem osobistym."
+        },
+        {
+            "pytanie": "Czy PJATK organizuje wydarzenia online?",
+            "tagi": [
+                "wydarzenia",
+                "online",
+                "uczelnia"
+            ],
+            "alternatywy": [
+                "Czy są dostępne wydarzenia w formie online?",
+                "Jakie wydarzenia można śledzić w internecie?",
+                "Czy PJATK ma w ofercie wydarzenia online?",
+                "Jakie imprezy są organizowane w formie zdalnej?"
+            ],
+            "odpowiedz": "Tak, PJATK organizuje wydarzenia online, które są dostępne dla wszystkich zainteresowanych, niezależnie od lokalizacji."
+        },
+        {
+            "pytanie": "Jakie są najbliższe wydarzenia kulturalne na PJATK?",
+            "tagi": [
+                "wydarzenia",
+                "kultura",
+                "uczelnia"
+            ],
+            "alternatywy": [
+                "Jakie wydarzenia kulturalne są planowane?",
+                "Jakie imprezy kulturalne odbędą się w najbliższym czasie?",
+                "Jakie wydarzenia związane z kulturą są organizowane na PJATK?",
+                "Jakie kulturalne eventy czekają nas na PJATK?"
+            ],
+            "odpowiedz": "Na PJATK planowane są różne wydarzenia kulturalne, takie jak wystawy, koncerty i spektakle, które będą ogłoszone na stronie uczelni."
+        },
+        {
+            "pytanie": "Czy PJATK organizuje wydarzenia sportowe?",
+            "tagi": [
+                "wydarzenia",
+                "sport",
+                "uczelnia"
+            ],
+            "alternatywy": [
+                "Jakie wydarzenia sportowe są organizowane na PJATK?",
+                "Czy uczelnia ma w planach wydarzenia sportowe?",
+                "Jakie imprezy sportowe czekają nas na PJATK?",
+                "Czy PJATK angażuje się w organizację wydarzeń sportowych?"
+            ],
+            "odpowiedz": "Tak, PJATK organizuje różne wydarzenia sportowe, w tym turnieje i zawody, które angażują studentów i pracowników."
+        },
+        {
+            "pytanie": "Jakie wydarzenia są organizowane przez studentów na PJATK?",
+            "tagi": [
+                "wydarzenia",
+                "studenci",
+                "organizacja"
+            ],
+            "alternatywy": [
+                "Jakie imprezy studenckie odbywają się na PJATK?",
+                "Jakie wydarzenia są organizowane przez studentów?",
+                "Jakie eventy studenckie można znaleźć na PJATK?",
+                "Jakie wydarzenia są inicjowane przez studentów na PJATK?"
+            ],
+            "odpowiedz": "Studenci PJATK organizują różnorodne wydarzenia, takie jak festiwale, warsztaty i spotkania tematyczne, które są otwarte dla wszystkich."
+        },
+        {
+            "pytanie": "Jakie są zasady uczestnictwa w wydarzeniach na PJATK?",
+            "tagi": [
+                "zasady",
+                "wydarzenia",
+                "uczelnia"
+            ],
+            "alternatywy": [
+                "Jakie są wymagania dotyczące uczestnictwa w wydarzeniach?",
+                "Jakie zasady obowiązują podczas wydarzeń?",
+                "Jakie są reguły uczestnictwa w imprezach organizowanych przez PJATK?",
+                "Jakie są kryteria udziału w wydarzeniach na PJATK?"
+            ],
+            "odpowiedz": "Zasady uczestnictwa w wydarzeniach na PJATK są zazwyczaj podawane w ogłoszeniach, ale zazwyczaj obejmują rejestrację i przestrzeganie regulaminu."
+        },
+        {
+            "pytanie": "Jakie wydziały są dostępne na PJATK?",
+            "tagi": [
+                "wydziały",
+                "oferta edukacyjna",
+                "studia"
+            ],
+            "alternatywy": [
+                "Jakie są dostępne wydziały?",
+                "Które wydziały oferuje PJATK?",
+                "Jakie kierunki są dostępne na wydziałach?",
+                "Jakie są opcje wydziałów na tej uczelni?",
+                "Jakie specjalizacje można wybrać na PJATK?"
+            ],
+            "odpowiedz": "Na PJATK dostępne są wydziały takie jak Informatyka, Grafika, Zarządzanie oraz wiele innych, które oferują różnorodne kierunki studiów."
+        },
+        {
+            "pytanie": "Czy PJATK ma wydział informatyki?",
+            "tagi": [
+                "wydział informatyki",
+                "studia",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Czy istnieje wydział informatyki na PJATK?",
+                "Czy PJATK oferuje kierunki związane z informatyką?",
+                "Jakie kierunki informatyczne są dostępne?",
+                "Czy można studiować informatykę na PJATK?",
+                "Jakie programy informatyczne są dostępne na PJATK?"
+            ],
+            "odpowiedz": "Tak, PJATK ma wydział informatyki, który oferuje różnorodne kierunki związane z technologią i programowaniem."
+        },
+        {
+            "pytanie": "Jakie kierunki oferuje wydział grafiki?",
+            "tagi": [
+                "wydział grafiki",
+                "kierunki",
+                "studia"
+            ],
+            "alternatywy": [
+                "Jakie specjalizacje są dostępne na wydziale grafiki?",
+                "Co można studiować na wydziale grafiki?",
+                "Jakie programy oferuje wydział grafiki?",
+                "Jakie kierunki są dostępne w grafice?",
+                "Jakie opcje studiów oferuje wydział grafiki?"
+            ],
+            "odpowiedz": "Wydział grafiki na PJATK oferuje kierunki takie jak grafika komputerowa, projektowanie graficzne oraz multimedia."
+        },
+        {
+            "pytanie": "Czy PJATK ma wydział zarządzania?",
+            "tagi": [
+                "wydział zarządzania",
+                "studia",
+                "PJATK"
+            ],
+            "alternatywy": [
+                "Czy istnieje wydział zarządzania na PJATK?",
+                "Jakie kierunki związane z zarządzaniem są dostępne?",
+                "Czy można studiować zarządzanie na PJATK?",
+                "Jakie programy zarządzania oferuje PJATK?",
+                "Jakie specjalizacje są dostępne w zarządzaniu?"
+            ],
+            "odpowiedz": "Tak, PJATK ma wydział zarządzania, który oferuje różnorodne kierunki związane z biznesem i zarządzaniem projektami."
+        },
+        {
+            "pytanie": "Jakie są różnice między wydziałem informatyki a wydziałem grafiki?",
+            "tagi": [
+                "wydziały",
+                "porównanie",
+                "studia"
+            ],
+            "alternatywy": [
+                "Jakie są różnice między tymi wydziałami?",
+                "Czym różni się wydział informatyki od wydziału grafiki?",
+                "Jakie są kluczowe różnice między tymi kierunkami?",
+                "Jakie są różnice w programach nauczania?",
+                "Jakie są różnice w specjalizacjach tych wydziałów?"
+            ],
+            "odpowiedz": "Wydział informatyki koncentruje się na technologiach komputerowych i programowaniu, podczas gdy wydział grafiki skupia się na sztuce wizualnej i projektowaniu."
+        },
+        {
+            "pytanie": "Jakie są wymagania rekrutacyjne na wydział informatyki?",
+            "tagi": [
+                "rekrutacja",
+                "wydział informatyki",
+                "studia"
+            ],
+            "alternatywy": [
+                "Jakie są kryteria przyjęć na wydział informatyki?",
+                "Co trzeba zrobić, aby dostać się na wydział informatyki?",
+                "Jakie są wymagania, aby studiować informatykę?",
+                "Jakie dokumenty są potrzebne do rekrutacji?",
+                "Jakie są zasady przyjęć na wydział informatyki?"
+            ],
+            "odpowiedz": "Aby dostać się na wydział informatyki, należy spełnić określone wymagania rekrutacyjne, które obejmują m.in. wyniki matury oraz rozmowę kwalifikacyjną."
+        },
+        {
+            "pytanie": "Czy PJATK oferuje studia podyplomowe na wydziałach?",
+            "tagi": [
+                "studia podyplomowe",
+                "wydziały",
+                "oferta edukacyjna"
+            ],
+            "alternatywy": [
+                "Czy są dostępne studia podyplomowe?",
+                "Jakie studia podyplomowe oferuje PJATK?",
+                "Czy można studiować podyplomowo na PJATK?",
+                "Jakie programy podyplomowe są dostępne?",
+                "Jakie opcje studiów podyplomowych oferuje PJATK?"
+            ],
+            "odpowiedz": "Tak, PJATK oferuje studia podyplomowe na różnych wydziałach, w tym w dziedzinach takich jak zarządzanie i informatyka."
+        },
+        {
+            "pytanie": "Jakie są możliwości współpracy między wydziałami?",
+            "tagi": [
+                "współpraca",
+                "wydziały",
+                "studia"
+            ],
+            "alternatywy": [
+                "Jak wydziały współpracują ze sobą?",
+                "Czy są jakieś programy współpracy między wydziałami?",
+                "Jakie są możliwości współpracy między różnymi wydziałami?",
+                "Jakie projekty realizowane są wspólnie przez wydziały?",
+                "Jakie są formy współpracy między wydziałami?"
+            ],
+            "odpowiedz": "Wydziały na PJATK często współpracują przy projektach badawczych oraz organizacji wydarzeń, co sprzyja wymianie wiedzy i doświadczeń."
+        },
+        {
+            "pytanie": "Jakie są perspektywy zawodowe po ukończeniu studiów na wydziale zarządzania?",
+            "tagi": [
+                "perspektywy zawodowe",
+                "wydział zarządzania",
+                "studia"
+            ],
+            "alternatywy": [
+                "Jakie możliwości kariery oferuje wydział zarządzania?",
+                "Co można robić po ukończeniu studiów na tym wydziale?",
+                "Jakie są opcje zatrudnienia po studiach?",
+                "Jakie zawody można wykonywać po ukończeniu tego kierunku?",
+                "Jakie są możliwości pracy po studiach na wydziale zarządzania?"
+            ],
+            "odpowiedz": "Absolwenci wydziału zarządzania mają szerokie możliwości zatrudnienia w różnych sektorach, w tym w marketingu, finansach i zarządzaniu projektami."
+        },
+        {
+            "pytanie": "Czy PJATK organizuje wydarzenia międzywydziałowe?",
+            "tagi": [
+                "wydziały",
+                "wydarzenia",
+                "organizacja"
+            ],
+            "alternatywy": [
+                "Jakie wydarzenia międzywydziałowe są organizowane?",
+                "Czy są organizowane wydarzenia dla wszystkich wydziałów?",
+                "Jakie imprezy odbywają się między wydziałami?",
+                "Czy PJATK organizuje współprace między wydziałami?",
+                "Jakie są formy współpracy międzywydziałowej?"
+            ],
+            "odpowiedz": "Tak, PJATK regularnie organizuje wydarzenia międzywydziałowe, które sprzyjają integracji studentów i wymianie doświadczeń."
+        }
+    ]
+}
