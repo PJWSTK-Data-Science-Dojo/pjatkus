@@ -1,8 +1,6 @@
 fastapi
 uvicorn
-openai
 nemo_toolkit[asr]
-httpx
 pydantic
 pydantic-settings
 python-multipart
