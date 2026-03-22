@@ -38,7 +38,7 @@ async def conversation(audio: UploadFile = File(...), session_id: str = "default
             files = {'audio_file': (audio.filename, audio_content, audio.content_type)}
             
             stt_response = await client.post(
-                f"{settings.stt_url}/transcribe",
+                f"{settings.stt_service_url}/transcribe",
                 files=files
             )
             stt_response.raise_for_status()
@@ -48,7 +48,7 @@ async def conversation(audio: UploadFile = File(...), session_id: str = "default
 
             # Get LLM response
             llm_response = await client.post(
-                f"{settings.llm_url}/chat",
+                f"{settings.llm_service_url}/chat",
                 json={
                     "message": transcription,
                     "session_id": session_id
@@ -88,7 +88,7 @@ async def conversation_base64(request: ConversationRequest):
         async with httpx.AsyncClient(timeout=settings.request_timeout) as client:
             # Transcribe audio
             stt_response = await client.post(
-                f"{settings.stt_url}/transcribe-base64",
+                f"{settings.stt_service_url}/transcribe-base64",
                 json={"audio_base64": request.audio_base64, "language": "pl"}
             )
             stt_response.raise_for_status()
@@ -98,7 +98,7 @@ async def conversation_base64(request: ConversationRequest):
 
             # Get LLM response
             llm_response = await client.post(
-                f"{settings.llm_url}/chat",
+                f"{settings.llm_service_url}/chat",
                 json={
                     "message": transcription,
                     "session_id": request.session_id

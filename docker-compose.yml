@@ -1,0 +1,66 @@
+services:
+  stt:
+    build:
+      context: .
+      dockerfile: services/stt/Dockerfile
+    container_name: pjatkus-stt
+    ports:
+      - "8001:8001"
+    environment:
+      - NEMO_MODEL=${NEMO_MODEL}
+      - CUDA_VISIBLE_DEVICES=0
+    env_file:
+      - .env
+    volumes:
+      - ./services/stt:/app/services/stt
+      - ./shared:/app/shared
+      - nemo_cache:/root/.cache
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    restart: unless-stopped
+
+  llm:
+    build:
+      context: .
+      dockerfile: services/llm/Dockerfile
+    container_name: pjatkus-llm
+    ports:
+      - "8002:8002"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OPENAI_MODEL=${OPENAI_MODEL}
+    env_file:
+      - .env
+    volumes:
+      - ./services/llm:/app/services/llm
+      - ./shared:/app/shared
+    restart: unless-stopped
+
+  gateway:
+    build:
+      context: .
+      dockerfile: services/gateway/Dockerfile
+    container_name: pjatkus-gateway
+    ports:
+      - "8000:8000"
+    environment:
+      - STT_SERVICE_URL=http://stt:8001
+      - LLM_SERVICE_URL=http://llm:8002
+      - REQUEST_TIMEOUT=30
+    env_file:
+      - .env
+    volumes:
+      - ./services/gateway:/app/services/gateway
+      - ./shared:/app/shared
+    depends_on:
+      - stt
+      - llm
+    restart: unless-stopped
+
+volumes:
+  nemo_cache:

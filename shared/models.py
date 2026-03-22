@@ -34,6 +34,6 @@ class ConversationRequest(BaseModel):
 class ConversationResponse(BaseModel):
     """Odpowiedź od robota z Gateway"""
     transcription: str
-    response_text: str
+    response: str
     session_id: str
     processing_time: float
